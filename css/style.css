@@ -5,3 +5,17 @@ div{
     background-color: tomato;
     padding: 10px;
 }
+.second{
+    margin-top: 50px;
+    height: 250px;
+    width: auto;
+    border: 5px solid green;
+    padding: 20px;
+    border-radius: 10px;
+}
+p{
+    color: green;
+    padding: 15px;
+    border: 2px dashed red;
+    border-radius: 10px;
+}
